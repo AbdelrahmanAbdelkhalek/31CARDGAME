@@ -1,0 +1,4 @@
+/*
+This project runs a program of a 31 card game where the details of the game can be found here: https://playingcarddecks.com/blogs/how-to-play/thirty-one-game-rules
+it runs the deck of cards and manipulate it using linked lists and have a setted up bet system.
+*/
